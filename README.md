@@ -2,7 +2,7 @@
 
 Run this followed commands:
 
-# Install dependencies ( when you you need them)
+# Install dependencies 
 npm i
 
 # Serve at localhost:1234
